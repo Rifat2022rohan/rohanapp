@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "618911009153",
+    "project_id": "rohanapp-91360",
+    "storage_bucket": "rohanapp-91360.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618911009153:android:369c785eb038e990690080",
+        "android_client_info": {
+          "package_name": "com.example.rohanapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618911009153-9nb4gq82hsi2p92565nssa6k2gkk5les.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rohanapp",
+            "certificate_hash": "792ff30d541330d8d95c0be28df57c35de8591c7"
+          }
+        },
+        {
+          "client_id": "618911009153-k3en1dtr724aro5if5j956q566h99ml0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE_v_-CJBcxlUOxTeGRQGkCVKNCfQIE-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618911009153-k3en1dtr724aro5if5j956q566h99ml0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
